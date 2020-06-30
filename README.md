@@ -1,4 +1,4 @@
-<h1> Renice Kernel Source code for Lenovo K3 Note </h1>
+<h1> Renice Kernel Source code for Lenovo Vibe S1 </h1>
 <br>
 <h2> What works :</h2>
 	Everything.
